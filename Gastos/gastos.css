@@ -28,8 +28,9 @@ nav {
 h1 {
     font-size: 50px;
     margin-left: 80px;
-    margin-top: 50px;
+    margin-top: 90px;
     color: #AAB0D6;
+    margin-bottom: 90;
 }
 
 h2 {
@@ -44,7 +45,13 @@ h3{
 
 .ribbon {
     width: 100%;
-    height: 15px;
+    height: 10px;
+    background: linear-gradient(90deg, #F9B17A 0%, #8085A8 100%);
+}
+
+.ribbon2 {
+    width: 100%;
+    height: 10px;
     background: linear-gradient(90deg, #F9B17A 0%, #8085A8 100%);
 }
 
@@ -123,7 +130,7 @@ footer p {
 
 .button_cal {
     font-family: "League Spartan", sans-serif;
-    margin-top: 12px;
+    margin-top: 30px;
     background: linear-gradient(90deg, #F9B17A 0%, #8085A8 100%);
     border: none;
     font-weight: bold;
@@ -132,7 +139,7 @@ footer p {
     text-decoration: none;
     cursor: pointer;
     border-radius: 5px;
-    margin: 15px auto;
+    margin: 50px auto 5px;
     display: block;
     border-radius: 90px;
     height: 52px;
@@ -142,6 +149,20 @@ footer p {
 
 .resultado{
 margin: auto;
-margin-top: 50px;
+margin-top: 20px;
 margin-bottom: 50px;
+}
+
+.bold-input {
+    border-radius: 90px; 
+    border: none; 
+    padding: 10px; 
+    font-weight: bold; 
+    outline: none; 
+}
+
+.gastos,
+.lucro {
+    border-radius: 90px;
+    margin-left: 20px;
 }
