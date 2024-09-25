@@ -9,7 +9,7 @@ Quickbuy é um projeto interdisciplinar para faculdade de um sistema para mercad
 
 ## Visite o Site
 
-Você pode visualizar o projeto em funcionamento [aqui](https://henriquenery1.github.io/QuickBuy/login/login.html).
+Você pode visualizar o projeto em funcionamento [aqui](https://annacarolinaa.github.io/QuickBuy/login/login.html).
 
 **Login para testes:** Usuário: quickbuy, Senha: 1234
 
