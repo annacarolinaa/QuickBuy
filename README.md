@@ -6,6 +6,7 @@
 
 Quickbuy é um projeto interdisciplinar para faculdade de um sistema para mercados. Ele oferece uma plataforma eficiente para gerenciar produtos, controle de estoque, registro de vendas, cadastro de funcionários e controle financeiro, facilitando a operação de um mercado.
 
+
 ## Visite o Site
 
 Você pode visualizar o projeto em funcionamento [aqui](https://henriquenery1.github.io/QuickBuy/login/login.html).
@@ -28,3 +29,14 @@ Gerencie os funcionários do mercado, registrando informações pessoais e cargo
 
 ### Controle Financeiro 💹
 Monitore as finanças do mercado, incluindo receitas, despesas e lucros. A tela de controle financeiro oferece uma visão abrangente das operações financeiras, auxiliando na tomada de decisões estratégicas.
+
+
+**Desenvolvido por:**
+- Anna Carolina De Azevedo Leite ([GitHub](https://github.com/annacarolinaa))
+- Giulia Caroline Claro ([GitHub](https://github.com/GiuCaroline))
+- Henrique Nery Cordeiro ([GitHub](https://github.com/henriquenery1))
+- Leonardo Dias Dos Santos ([GitHub](https://github.com/Leo-Santoss))
+- Pedro Henrique Batista Dos Santos ([GitHub](https://github.com/pedrosantos664))
+
+
+- [Documentação do Projeto](#)
