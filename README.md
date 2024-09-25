@@ -9,7 +9,7 @@ Quickbuy é um projeto interdisciplinar para faculdade de um sistema para mercad
 
 ## Visite o Site
 
-Você pode visualizar o projeto em funcionamento [aqui](https://annacarolinaa.github.io/QuickBuy/login/login.html).
+Você pode visualizar o projeto em funcionamento [aqui](https://henriquenery1.github.io/QuickBuy/login/login.html).
 
 **Login para testes:** Usuário: quickbuy, Senha: 1234
 
@@ -30,6 +30,7 @@ Gerencie os funcionários do mercado, registrando informações pessoais e cargo
 ### Controle Financeiro 💹
 Monitore as finanças do mercado, incluindo receitas, despesas e lucros. A tela de controle financeiro oferece uma visão abrangente das operações financeiras, auxiliando na tomada de decisões estratégicas.
 
+---
 
 **Desenvolvido por:**
 - Anna Carolina De Azevedo Leite ([GitHub](https://github.com/annacarolinaa))
@@ -38,5 +39,3 @@ Monitore as finanças do mercado, incluindo receitas, despesas e lucros. A tela 
 - Leonardo Dias Dos Santos ([GitHub](https://github.com/Leo-Santoss))
 - Pedro Henrique Batista Dos Santos ([GitHub](https://github.com/pedrosantos664))
 
-
-- [Documentação do Projeto](#)
